@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\new_folder\\unity_project\\LearnKitchenChaos_backup\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A863961-38A8-1A29-7AAE-0086556CFC18}|Assembly-CSharp.csproj|c:\\new_folder\\unity_project\\learnkitchenchaos_backup\\assets\\scripts\\ui\\pickitempanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A863961-38A8-1A29-7AAE-0086556CFC18}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\pickitempanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A863961-38A8-1A29-7AAE-0086556CFC18}|Assembly-CSharp.csproj|C:\\new_folder\\unity_project\\LearnKitchenChaos_backup\\assets\\scripts\\aspectratioutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A863961-38A8-1A29-7AAE-0086556CFC18}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\aspectratioutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A863961-38A8-1A29-7AAE-0086556CFC18}|Assembly-CSharp.csproj|C:\\new_folder\\unity_project\\LearnKitchenChaos_backup\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A863961-38A8-1A29-7AAE-0086556CFC18}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A863961-38A8-1A29-7AAE-0086556CFC18}|Assembly-CSharp.csproj|C:\\new_folder\\unity_project\\LearnKitchenChaos_backup\\assets\\scripts\\fade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A863961-38A8-1A29-7AAE-0086556CFC18}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A863961-38A8-1A29-7AAE-0086556CFC18}|Assembly-CSharp.csproj|C:\\new_folder\\unity_project\\LearnKitchenChaos_backup\\assets\\scripts\\mainmenuscene\\chooselevelobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A863961-38A8-1A29-7AAE-0086556CFC18}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenuscene\\chooselevelobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A863961-38A8-1A29-7AAE-0086556CFC18}|Assembly-CSharp.csproj|C:\\new_folder\\unity_project\\LearnKitchenChaos_backup\\assets\\scripts\\loadercallback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A863961-38A8-1A29-7AAE-0086556CFC18}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\loadercallback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\new_folder\\unity_project\\LearnKitchenChaos_backup\\Assets\\Scripts\\MainMenuScene\\MainMenuObjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\MainMenuScene\\MainMenuObjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A863961-38A8-1A29-7AAE-0086556CFC18}|Assembly-CSharp.csproj|C:\\new_folder\\unity_project\\LearnKitchenChaos_backup\\assets\\scripts\\loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A863961-38A8-1A29-7AAE-0086556CFC18}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A863961-38A8-1A29-7AAE-0086556CFC18}|Assembly-CSharp.csproj|C:\\new_folder\\unity_project\\LearnKitchenChaos_backup\\assets\\scripts\\manager\\disguisemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A863961-38A8-1A29-7AAE-0086556CFC18}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\disguisemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A863961-38A8-1A29-7AAE-0086556CFC18}|Assembly-CSharp.csproj|C:\\new_folder\\unity_project\\LearnKitchenChaos_backup\\assets\\scripts\\ui\\mainmapui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A863961-38A8-1A29-7AAE-0086556CFC18}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\mainmapui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A863961-38A8-1A29-7AAE-0086556CFC18}|Assembly-CSharp.csproj|C:\\new_folder\\unity_project\\LearnKitchenChaos_backup\\assets\\scripts\\animationskiper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A863961-38A8-1A29-7AAE-0086556CFC18}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\animationskiper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AspectRatioUtility.cs",
+              "DocumentMoniker": "C:\\new_folder\\unity_project\\LearnKitchenChaos_backup\\Assets\\Scripts\\AspectRatioUtility.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AspectRatioUtility.cs",
+              "ToolTip": "C:\\new_folder\\unity_project\\LearnKitchenChaos_backup\\Assets\\Scripts\\AspectRatioUtility.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AspectRatioUtility.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAswBsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T06:14:49.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Fade.cs",
+              "DocumentMoniker": "C:\\new_folder\\unity_project\\LearnKitchenChaos_backup\\Assets\\Scripts\\Fade.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Fade.cs",
+              "ToolTip": "C:\\new_folder\\unity_project\\LearnKitchenChaos_backup\\Assets\\Scripts\\Fade.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Fade.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAcwBYAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T12:25:53.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\new_folder\\unity_project\\LearnKitchenChaos_backup\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "C:\\new_folder\\unity_project\\LearnKitchenChaos_backup\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAIBPwHQAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T04:54:07.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PickItemPanel.cs",
+              "DocumentMoniker": "C:\\new_folder\\unity_project\\LearnKitchenChaos_backup\\Assets\\Scripts\\UI\\PickItemPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\PickItemPanel.cs",
+              "ToolTip": "C:\\new_folder\\unity_project\\LearnKitchenChaos_backup\\Assets\\Scripts\\UI\\PickItemPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\PickItemPanel.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAcwFQAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T04:48:44.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DisguiseManager.cs",
+              "DocumentMoniker": "C:\\new_folder\\unity_project\\LearnKitchenChaos_backup\\Assets\\Scripts\\Manager\\DisguiseManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\DisguiseManager.cs",
+              "ToolTip": "C:\\new_folder\\unity_project\\LearnKitchenChaos_backup\\Assets\\Scripts\\Manager\\DisguiseManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\DisguiseManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T04:39:09.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoaderCallback.cs",
+              "DocumentMoniker": "C:\\new_folder\\unity_project\\LearnKitchenChaos_backup\\Assets\\Scripts\\LoaderCallback.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LoaderCallback.cs",
+              "ToolTip": "C:\\new_folder\\unity_project\\LearnKitchenChaos_backup\\Assets\\Scripts\\LoaderCallback.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LoaderCallback.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T04:26:19.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Loader.cs",
+              "DocumentMoniker": "C:\\new_folder\\unity_project\\LearnKitchenChaos_backup\\Assets\\Scripts\\Loader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Loader.cs",
+              "ToolTip": "C:\\new_folder\\unity_project\\LearnKitchenChaos_backup\\Assets\\Scripts\\Loader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Loader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T04:18:08.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainMenuObjects.cs",
+              "DocumentMoniker": "C:\\new_folder\\unity_project\\LearnKitchenChaos_backup\\Assets\\Scripts\\MainMenuScene\\MainMenuObjects.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuScene\\MainMenuObjects.cs",
+              "ToolTip": "C:\\new_folder\\unity_project\\LearnKitchenChaos_backup\\Assets\\Scripts\\MainMenuScene\\MainMenuObjects.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenuScene\\MainMenuObjects.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T04:19:47.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChooseLevelObjects.cs",
+              "DocumentMoniker": "C:\\new_folder\\unity_project\\LearnKitchenChaos_backup\\Assets\\Scripts\\MainMenuScene\\ChooseLevelObjects.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuScene\\ChooseLevelObjects.cs",
+              "ToolTip": "C:\\new_folder\\unity_project\\LearnKitchenChaos_backup\\Assets\\Scripts\\MainMenuScene\\ChooseLevelObjects.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenuScene\\ChooseLevelObjects.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAYwBUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T04:18:59.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainMapUI.cs",
+              "DocumentMoniker": "C:\\new_folder\\unity_project\\LearnKitchenChaos_backup\\Assets\\Scripts\\UI\\MainMapUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\MainMapUI.cs",
+              "ToolTip": "C:\\new_folder\\unity_project\\LearnKitchenChaos_backup\\Assets\\Scripts\\UI\\MainMapUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\MainMapUI.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAYwCUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:49:56.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AnimationSkiper.cs",
+              "DocumentMoniker": "C:\\new_folder\\unity_project\\LearnKitchenChaos_backup\\Assets\\Scripts\\AnimationSkiper.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AnimationSkiper.cs",
+              "ToolTip": "C:\\new_folder\\unity_project\\LearnKitchenChaos_backup\\Assets\\Scripts\\AnimationSkiper.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AnimationSkiper.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA7wBcAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T03:54:47.744Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
