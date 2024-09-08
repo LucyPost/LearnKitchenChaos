@@ -193,7 +193,7 @@ public class Player : MonoBehaviour, IKitchenObjectParent {
     public void SetKitechenObject(KitchenObject kitchenObject) {
         this.kitchenObject = kitchenObject;
         //if(kitchenObject != null) {
-        //    OnPickedSomething?.Invoke(this, EventArgs.Empty);
+        //    OnPickedSomething.Invoke(this, EventArgs.Empty);
         //}
         OnPickedSomething?.Invoke(this, EventArgs.Empty);
     }
